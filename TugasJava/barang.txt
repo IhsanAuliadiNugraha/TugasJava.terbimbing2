@@ -1,0 +1,5 @@
+Laptop Asus;8500000.0;10
+Mouse Wireless;150000.0;50
+Kaos Polos;75000.0;100
+Mie Instan;3500.0;200
+Sapu Lantai;45000.0;30
